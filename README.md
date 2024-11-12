@@ -67,7 +67,7 @@ Database: SQLite to store user data, quiz, leaderboard info.
 
 ---
 
-## Installation 📦
+# Installation 📦
 
 ### Clone the Repository
 
@@ -77,7 +77,7 @@ Clone this repository to your local machine using Git:
 git clone https://github.com/ganeshsriprasad/Quiz-App
 ```
 
-# Create and Activate a Virtual Environment
+## Create and Activate a Virtual Environment
 A virtual environment is recommended to isolate the project dependencies. Follow the steps below:
 
 ## Navigate to the project directory:
