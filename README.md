@@ -74,7 +74,7 @@ Database: SQLite to store user data, quiz, leaderboard info.
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/ganeshsriprasad/Music-Player
+git clone https://github.com/ganeshsriprasad/Quiz-App
 ```
 
 # Create and Activate a Virtual Environment
@@ -82,7 +82,7 @@ A virtual environment is recommended to isolate the project dependencies. Follow
 
 ## Navigate to the project directory:
 ```shell
-cd Music-Player
+cd Quiz-App
 ```
 
 ## Create a virtual environment.
